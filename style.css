@@ -1,0 +1,199 @@
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: 'Mochiy Pop One', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #FA2FB5;
+  background-image: -webkit-linear-gradient(top, #FA2FB5, #411530);
+  background-image: -moz-linear-gradient(top, #FA2FB5, #411530);
+  background-image: -ms-linear-gradient(top, #FA2FB5, #411530);
+  background-image: -o-linear-gradient(top, #FA2FB5, #411530);
+  background-image: linear-gradient(to bottom, #FA2FB5, #411530);
+  text-decoration: none;
+}
+body {
+  text-align: center;
+background-color: #F5E8C7;
+  line-height: 2;
+}
+h1 {
+  color: #495C83;
+  font-family: 'Mochiy Pop One', sans-serif;
+}
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+  color: #495C83;
+}
+h3 {
+  color: #66BFBF;
+  font-family: 'Russo One', sans-serif;
+  line-height: 2;
+}
+.image2 {
+  position: absolute;
+  left: 0;
+  top: 2650px;
+}
+
+.find {
+  font-family: 'Lobster', cursive;
+  width: 100px;
+  color: #355764;
+}
+.find:hover {
+  text-decoration: none;
+  color: #FA2FB5;
+}
+
+.image3 {
+  position: absolute;
+  right: 0;
+  top: 1600px
+}
+.cartoons {
+  margin: 5px auto 50px;
+
+}
+.basic {
+  width: 50%;
+  margin: 100px auto;
+  line-height: 2;
+
+}
+.bottomcontainer {
+  width: 50%;
+  margin: 100px auto;
+  text-align: justify;
+}
+.skills {
+  text-align: center;
+}
+.chicken {
+  float: right;
+  height: 200px;
+  width: 200px;
+  margin: auto;
+}
+.learning {
+  float: left;
+  height: 280px;
+  width: 200px;
+
+
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+border-width: thick;
+  width: 4%;
+  color: grey;
+}
+.plain {
+  color: #377D71;
+
+}
+.contactme {
+  margin: 100px auto;
+}
+
+.last {
+padding-top: 10px;
+  background-color: #66BFBF;
+
+}
+a {
+  text-decoration: none;
+}
+.google {
+  height: 75px;
+  width: 75px;
+}
+.wiki {
+  height: 75px;
+  width: 75px;
+}
+.facebook {
+  height: 75px;
+  width: 75px;
+}
+.insta {
+  height: 75px;
+  width: 75px;
+}
+.cowin {
+  height: 75px;
+  width: 75px;
+}
+.youtube {
+  height: 75px;
+  width: 75px;
+}
+.flipkart {
+  height: 75px;
+  width: 75px;
+}
+.amazon {
+  height: 75px;
+  width: 75px;
+}
+.myntra {
+  height: 75px;
+  width: 75px;
+}
+
+.gmeet {
+  height: 75px;
+  width: 75px;
+}
+.whatsapp {
+  height: 75px;
+  width: 75px;
+
+}
+.home {
+  height: 100px;
+  width: 100px
+}
+.email {
+  height: 100px;
+  width: 100px
+}
+.telephone {
+  height: 100px;
+  width: 100px
+}
+.myphoto {
+  height: 300px;
+  width: 300px;
+}
+.get {
+  width: 25%
+}
+
+.image1 {
+  position: relative;
+  top: 0;
+  border-top: 0;
+  padding-top: 0;
+  margin-top: 0;
+}
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 10px 0;
+}
